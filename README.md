@@ -1,5 +1,4 @@
-Hey. It's Victoria there.
-I'm a Frontend Developer.
+
 
 Stack:
 
