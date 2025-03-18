@@ -28,7 +28,7 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SunrayFrei&theme=darcula&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=490&card_height=195)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SunrayFrei&theme=dracula&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunrayFrei&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
