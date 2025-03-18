@@ -20,7 +20,7 @@
 ### :keyboard: Tools:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40">&nbsp;
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzEkaAN0BJ2o3ri2IsQRKXVk6ejQQqz0GUg&s)" title="github" alt="github" width="40" height="40" filter="invert(1)">&nbsp;
+  <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" title="github" alt="github" width="40" height="40" filter="invert(1)">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/githubactions/githubactions-original.svg" title="github-actions" alt="github-actions" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="40" height="40">&nbsp;
