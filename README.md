@@ -29,7 +29,7 @@
 ---
 
 <p>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SunrayFrei&theme=rose-pine&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunrayFrei&theme=rose-pine&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SunrayFrei&theme=nord&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunrayFrei&theme=nord&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 ---
