@@ -28,7 +28,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunrayFrei&show_icons=true&theme=nord)<a href="https://github.com/anuraghazra/github-readme-stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunrayFrei&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunrayFrei&show_icons=true&theme=nord&height=200px)<a href="https://github.com/anuraghazra/github-readme-stats"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunrayFrei&layout=compact&theme=nord&height=200px)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
