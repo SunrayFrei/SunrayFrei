@@ -20,7 +20,7 @@
 ### :keyboard: Tools:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40">&nbsp;
-  <img src="https://www.pngfind.com/pngs/m/176-1766942_our-github-repos-are-here-github-icon-hd.png" title="github" alt="github" width="40" height="40" filter="invert(1)">&nbsp;
+  <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" title="github" alt="github" width="40" height="40" filter="invert(1)">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/githubactions/githubactions-original.svg" title="github-actions" alt="github-actions" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="40" height="40">&nbsp;
