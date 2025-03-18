@@ -26,8 +26,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="40" height="40">&nbsp;
 </div>
 
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SunrayFrei)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SunrayFrei&theme=dracula)](https://git.io/streak-stats)
 
 
 ---
