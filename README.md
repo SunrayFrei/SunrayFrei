@@ -2,7 +2,7 @@
 
 ### :compass: Languages:
 
-<div>
+<div slyles="max-height: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-plain.svg">
   <img src="">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg">
