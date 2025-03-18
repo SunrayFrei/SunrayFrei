@@ -28,10 +28,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunrayFrei&show_icons=true&theme=dracula&height=200px)<a href="https://github.com/anuraghazra/github-readme-stats"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunrayFrei&layout=compact&theme=dracula&height=200)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### Contact me:
 
 [![Logo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chrnns)
