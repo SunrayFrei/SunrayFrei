@@ -13,7 +13,7 @@
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" title="react" alt="react" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40">&nbsp;
-  <img src="" title="react" alt="react" width="40" height="40">&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40">&nbsp;
   
 </div>
 
