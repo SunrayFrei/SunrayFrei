@@ -28,7 +28,7 @@
 
 ---
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SunrayFrei&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode user SunrayFrei](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSunrayFrei&logo=leetcode&logoColor=yellow)](https://leetcode.com/SunrayFrei/)
 
 ---
 ### Contact me:
