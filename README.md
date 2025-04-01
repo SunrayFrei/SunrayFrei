@@ -1,39 +1,21 @@
 
 
-### :compass: Languages:
+### 
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40">&nbsp;
-</div>
-
-### :lady_beetle: Technologies:
-<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original.svg" title="react" alt="react" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40">&nbsp;
-  
-</div>
-
-### :keyboard: Tools:
-<div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/git/git-plain.svg" title="git" alt="git" width="40" height="40">&nbsp;
   <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" title="github" alt="github" width="40" height="40" filter="invert(1)">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/githubactions/githubactions-original.svg" title="github-actions" alt="github-actions" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/photoshop/photoshop-original.svg" title="photoshop" alt="photoshop" width="40" height="40">&nbsp;
 </div>
-
----
-
-[![LeetCode user SunrayFrei](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSunrayFrei&logo=leetcode&logoColor=yellow)](https://leetcode.com/SunrayFrei/)
-
----
-### Contact me:
-
-[![Logo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/chrnns)
 
 
 <!--
