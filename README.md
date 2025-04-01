@@ -4,7 +4,7 @@
 I'm frontend developer. 
 I am currently studying at Hexlet. 
 I love clean code.
-
+<hr>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,git,github,githubactions,sass,jest&perline=10"/>
