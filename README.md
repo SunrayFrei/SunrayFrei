@@ -2,7 +2,7 @@
 
 ### 
 
-<div>
+<div style="text-align: center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40">&nbsp;
