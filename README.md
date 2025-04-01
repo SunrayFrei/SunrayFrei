@@ -7,7 +7,7 @@ I love clean code.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,git,github,githubactions,sass,jest&perline=10/>
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,git,github,githubactions,sass,jest&perline=12/>
   </a>
 </p>
 
