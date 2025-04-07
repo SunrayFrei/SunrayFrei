@@ -6,7 +6,7 @@ I am currently studying at Hexlet.
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,git,nodejs,sass,jest,github,githubactions,npm,figma,ps&perline=15"/>
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,sass,jest,git,github,githubactions,npm,figma,ps&perline=15"/>
   </a>
 </p>
 
