@@ -1,13 +1,12 @@
 
 
 <h1>Hey there</h1>
-I'm frontend developer. 
+I'm an aspiring frontend developer. 
 I am currently studying at Hexlet. 
-I love clean code.
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,git,github,githubactions,npm,sass,jest&perline=15"/>
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,git,nodejs,sass,jest,github,githubactions,npm,figma,ps&perline=15"/>
   </a>
 </p>
 
