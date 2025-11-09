@@ -2,7 +2,7 @@
 
 <h1>Hey there</h1>
 I'm an aspiring frontend developer. 
-I am currently studying at Hexlet. 
+
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
